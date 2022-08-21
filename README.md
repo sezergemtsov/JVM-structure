@@ -10,7 +10,7 @@ _В метаспейсе выделена память на класс JvmCompre
     public static void main(String[] args) {
 ```
     
-    _В стеке создан фрейм main_
+_В стеке создан фрейм main_
     
 ```java
         int i = 1;                      // 1
