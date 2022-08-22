@@ -1,6 +1,5 @@
 # JVM-structure with VisualVM
 
----
 
 ## Programm
 
